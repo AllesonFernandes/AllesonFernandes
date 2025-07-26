@@ -2,10 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=7295F7&center=true&width=500&height=70&lines=Seja+Bem+vindo!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Sou+Alleson+Fernandes;" />
 </h1>
 
-<div>
-    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AllesonFernandes.AllesonFernandes" />
-</div>
-
 <h3 align="center">Desenvolvedor web Fullstack</h3>
 
 <div>
@@ -23,6 +19,10 @@
   <a href="https://www.linkedin.com/in/allesonfernandes/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+</div>
+
+<div>
+    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AllesonFernandes.AllesonFernandes" />
 </div>
 
  <hr/>
